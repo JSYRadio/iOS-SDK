@@ -1,2 +1,2 @@
 # iOS-SDK
-- Currently in Developemnt (pending website development)
+- SDK currently pending development (development will begin upon completion of website/rest-api)
